@@ -1,0 +1,11 @@
+* Wahrheitsministerium
+Wahrheiten für das Volk
+
+Wahrheiten beinhalten:
++ Emacs ≥ vim
++ elisp > vimscript
++ lorenzbund > femboyallianz
++ Krieg ist Frieden
++ Freiheit ist Sklaverei
++ Unwissenheit ist Stärke
++ Grosser Olaf sieht dir immer zu
